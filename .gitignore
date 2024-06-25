@@ -356,3 +356,8 @@ root_path/
 examples/root_path/
 root_path
 checkpoin/
+weights/
+.ipynb_checkpoints/
+__pycache__
+src/best_model_coarse.pt
+src/best_model_fine.pt
